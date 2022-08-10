@@ -1,0 +1,14 @@
+{
+  "name": "react-credit-cards-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "payment": "2.3.0",
+    "react": "16.0.0",
+    "react-credit-cards": "0.7.0",
+    "react-dom": "16.0.0",
+    "styled-components": "4.1.3"
+  }
+}
